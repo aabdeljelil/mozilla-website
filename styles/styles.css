@@ -1,3 +1,7 @@
 p {
   color: red;
 }
+.other{
+	border: 5px solid blue;
+	width: 500px;
+}
